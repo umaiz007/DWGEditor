@@ -1,0 +1,12 @@
+.adsk-viewing-viewer.dark-theme .adsk-control-group {
+  border-radius: 13px;
+  background-color: #012131;
+}
+
+.adsk-viewing-viewer.dark-theme .adsk-button:hover {
+  border-radius: 13px;
+}
+
+.adsk-button.active {
+  border-radius: 13px !important;
+}
